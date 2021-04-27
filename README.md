@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I am a dumb little kid trying to fit myself into the harsh world of IT and fixing particularly dumb code issues.
+![baka da yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeusra&show_icons=true&theme=radical)
 
 <!--
 **TaeKwonZeus/TaeKwonZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

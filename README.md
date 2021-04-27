@@ -1,5 +1,6 @@
 ### Hi there! I am a dumb little kid trying to fit myself into the harsh world of IT and fixing particularly dumb code issues.
-![baka da yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=true&theme=calm)
+![Stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=true&theme=calm)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeKwonZeus)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TaeKwonZeus/TaeKwonZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

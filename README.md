@@ -1,4 +1,5 @@
-### Hi there! I am a dumb little kid trying to fit myself into the harsh world of IT and fixing particularly dumb code issues.
-![Stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=true&theme=nord)
+### Hi there! 👋
+I am a dumb little 13 year old trying to fit myself into the harsh world of IT and fixing particularly dumb code issues.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeKwonZeus&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+My stats:
+![baka da yo's Stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=true&theme=nord)

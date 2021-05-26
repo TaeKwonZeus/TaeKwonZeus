@@ -1,5 +1,7 @@
 ### Hi there! 👋
-I am a dumb little 13 year old trying to fit myself into the harsh world of IT and fixing particularly dumb code issues.
+I am Baka, sometimes known as TaeKwonZeus. I might use C# or Python, maybe dip my toes into JavaScript/TypeScript.
+
+I am currently working on Shop Retreat, a marketplace with Discord as an interface.
 
 My stats:
 

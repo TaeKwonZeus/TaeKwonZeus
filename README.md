@@ -6,9 +6,7 @@
 
 I am Baka, sometimes known as TaeKwonZeus.
 
-I like Kotlin, Golang, C# and everything tasty ;)
-
-I am currently working on Shop Retreat, a marketplace with Discord as an interface.
+I like C# and everything tasty ;)
 
 My stats:
 

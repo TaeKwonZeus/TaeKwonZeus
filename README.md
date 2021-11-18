@@ -10,4 +10,4 @@ I like C# and everything tasty ;)
 
 My stats:
 
-![baka da yo's Stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=true&theme=nord)
+![baka da yo's Stats](https://github-readme-stats.vercel.app/api?username=TaeKwonZeus&show_icons=false&theme=calm)

@@ -4,9 +4,7 @@
 ![](https://img.shields.io/github/stars/TaeKwonZeus?logo=github)
 ![](https://img.shields.io/reddit/user-karma/combined/TaeKwonZeuss?logo=reddit)
 
-I am Baka, sometimes known as TaeKwonZeus.
-
-I like C# and everything tasty ;)
+I am a 13 years old developer from Russia. I mostly use C#, sometimes use TypeScript for web-related things. If I'm not working, I'm usually playing games or chilling outside.
 
 My stats:
 
